@@ -73,7 +73,7 @@ export default function FlowerBouquet() {
 
   return (
 
-    <section className="py-16 px-4 bg-linear-to-b from-rose-50 to-yellow-50">
+    <section id="flowers" className="py-16 px-4 bg-linear-to-b from-rose-50 to-yellow-50">
 
       {/* HEADER */}
       <div className="text-center mb-12">
